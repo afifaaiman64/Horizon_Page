@@ -1,0 +1,368 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.firstcard {
+    width: 850px;
+    border: 'none';
+    border-radius: 15px;
+    margin-left: 270px;
+    height: 300px; 
+    background-repeat: no-repeat;
+    background-image: url('src/images/acalogo.jpg');
+    background-size: cover;
+}
+
+.firstcard h2 {
+    font-size: 27px;
+    color: white;
+    margin-left: 25px;
+    margin-top: -40px;
+    font-weight: 600;
+    width: 350px;
+}
+
+.firstcard h1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 90px;
+    color: #11047A;
+}
+
+.firstcard p {
+    font-size: 14px;
+    font-weight: 300;
+    color: white;
+    margin-left: 55px;
+    width: 350px;
+    margin-top: -30px;
+}
+
+.butt1 {
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 55px;
+    background: white;
+    border: none;
+    height: 50px;
+    width: 150px;
+}
+
+.butt2 {
+    font-size: 15px;
+    font-weight: 200;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background: transparent;
+    border: none;
+    height: 50px;
+    width: 150px;
+    color: rgb(214, 214, 250);
+}
+
+.trenbut {
+    width: 50px;
+    height: 30px;
+    color: blue;
+    gap: 20px;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: none;
+    margin-left: 375px;
+    margin-bottom: 90px;
+}
+
+.trenbut1 {
+    width: 90px;
+    height: 30px;
+    color: blue;
+    gap: 20px;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 90px;
+}
+
+.trcont {
+    display: flex;
+    flex-direction: row;
+    margin-left: 270px;
+    gap: 50px;
+}
+
+.trcont2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 270px;
+    gap: 50px;
+    margin-top: -130px;
+    margin-bottom: 30px;
+}
+
+.trtiltle {
+    width: 280px;
+    height: 320px;
+    border-radius: 15px;
+    margin-top: 70px;
+    background: whitesmoke;
+}
+
+.trtiltle img {
+    width: 260px;
+    border-radius: 17px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.avatar-group .MuiAvatar-root {
+  width: 24px !important;
+  height: 24px !important;
+  font-size: 0.75rem !important; /* controls +N text size */
+}
+
+.trtiltle .icon{
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 20px;
+  color: black;
+  background: white;
+  padding: 4px;
+  border-radius: 50%;
+}
+.trtiltle2 .icon{
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 20px;
+  color: black;
+  background: white;
+  padding: 4px;
+  border-radius: 50%;
+}
+.trtiltle3 .icon{
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 20px;
+  color: black;
+  background: white;
+  padding: 4px;
+  border-radius: 50%;
+}
+.trtiltle h3 {
+    margin-top: -30px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.trtiltle h4 {
+    font-size: 13px;
+    color: blue;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.trtiltle p {
+    font-size: 13px;
+    color: #A0AEC0;
+    font-weight: 400;
+    margin-top: -10px;
+    margin-left: 15px;
+}
+
+.trtiltle button {
+    background: rgb(66, 9, 113);
+    border-radius: 15px;
+    padding: 5px;
+    margin-left: 30px;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    width: 100px;
+}
+
+.trtiltle2 {
+     width: 280px;
+    height: 320px;
+    border-radius: 15px;
+    margin-top: 70px;
+    background: whitesmoke;
+}
+
+.trtiltle2 img {
+   width: 260px;
+    border-radius: 17px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.trtiltle2 h3 {
+   margin-top: -30px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.trtiltle2 h4 {
+     font-size: 13px;
+    color: blue;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.trtiltle2 p {
+     font-size: 13px;
+    color: #A0AEC0;
+    font-weight: 400;
+    margin-top: -10px;
+    margin-left: 15px;
+}
+
+.trtiltle2 button {
+   background: rgb(66, 9, 113);
+    border-radius: 15px;
+    padding: 5px;
+    margin-left: 30px;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    width: 100px;
+}
+
+.trtiltle3 {
+    width: 280px;
+    height: 320px;
+    border-radius: 15px;
+    margin-top: 70px;
+    background: whitesmoke;
+}
+
+.trtiltle3 img {
+   width: 260px;
+    border-radius: 17px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.trtiltle3 h3 {
+    margin-top: -30px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.trtiltle3 h4 {
+     font-size: 13px;
+    color: blue;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.trtiltle3 p {
+     font-size: 13px;
+    color: #A0AEC0;
+    font-weight: 400;
+    margin-top: -10px;
+    margin-left: 15px;
+}
+
+.trtiltle3 button {
+   background: rgb(66, 9, 113);
+    border-radius: 15px;
+    padding: 5px;
+    margin-left: 30px;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    width: 100px;
+}
+
+.trcont h1 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-left: -600px;
+}
+
+.myrig-top {
+    width: 320px;
+    height: 350px;
+    background: white;
+    margin-left: 1140px;
+    margin-top: -300px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nftoplist{
+    margin-left: -320px;
+}
+
+.nftop h1 {
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+.topbut {
+    width: 60px;
+    height: 30px;
+    color: blue;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: none;
+    margin-left: 119px;
+}
+
+.topbut2 {
+    width: 60px;
+    height: 30px;
+    color: blue;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: none;
+    margin-left: 159px;
+}
+.myrig-bot {
+    width: 320px;
+    height: 465px;
+    background: white;
+    margin-left: 1140px;
+    margin-top: -210px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    display: flex;
+}
+.nfbot h1{
+    font-size: 17px;
+    margin-left: 10px;
+}
+.nfbotlist{
+    margin-left: -320px;
+}
+@media only screen and (max-width: 950px){
+    .mynftcard{
+        min-width: 600px;
+        width: 750px;
+    }
+    .trcont{
+        min-width: 250px;
+        height: 320px;
+        display: flex;
+        flex-direction: column;
+    }
+    .nfbot{
+        margin-top: -550px;
+    }
+    .trcont2{
+        min-width: 250px;
+        height: 320px;
+        margin-top: -700px;
+        display: flex;
+    }
+}

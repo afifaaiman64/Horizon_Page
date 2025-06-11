@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.mytitle {
+    justify-content: left;
+    margin-left: 130px;
+    width: 83%;
+    margin-top: 10px;
+}
+
+.trcont {
+    display: flex;
+    flex-direction: row;
+    margin-left: 270px;
+    margin-bottom: 35px;
+    margin-right: 10px;
+    font-family: lato;
+}
+
+.trtiltle {
+    width: 400px;
+    height: 790px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: #F7FAFC;
+}
+
+.c1 {
+    width: 370px;
+    height: 200px;
+    margin-left: 12px;
+    margin-right: 10px;
+    background: white;
+    border-radius: 20px;
+}
+
+.c1 h1 {
+    margin-left: 10px;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.trtiltle .addbut {
+    margin-left: 230px;
+    background: #EDF2F7;
+    color: blue;
+    border: none;
+    width: 50px;
+}
+
+.c1 h2 {
+    margin-left: 15px;
+    margin-top: 5px;
+    font-weight: 200;
+    font-size: 14px;
+    font-weight: 600;
+    color: #11047A;
+}
+
+.c1 .writebut {
+    margin-left: 25px;
+    width: 50px;
+    margin-top: 10px;
+    background: white;
+    border: none;
+    color: rgb(192, 186, 186);
+}
+
+.c2 .writebut {
+    margin-left: 65px;
+    margin-top: 10px;
+    width: 50px;
+    background: white;
+    border: none;
+    color: rgb(192, 186, 186);
+}
+
+.c3 .writebut {
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 50px;
+    background: white;
+    border: none;
+    color: rgb(192, 186, 186);
+}
+
+.trtiltle2 .c3 .writebut {
+    margin-left: 25px;
+    margin-top: 10px;
+    background: white;
+    border: none;
+    color: rgb(192, 186, 186);
+}
+
+.c1 p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 7px;
+    color: rgb(168, 184, 222);
+}
+
+.c1 .updbut {
+    margin-left: 250px;
+    margin-top: -20px;
+    background: rgb(70, 70, 232);
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.c2 {
+    width: 370px;
+    height: 320px;
+    margin-left: 12px;
+    margin-right: 10px;
+    background: white;
+    border-radius: 20px;
+}
+
+.c2 h2 {
+     margin-left: 15px;
+    margin-top: 10px;
+    font-weight: 200;
+    font-size: 14px;
+    font-weight: 600;
+    color: #11047A;
+}
+
+.c2 img {
+    width: 345px;
+    height: 140px;
+    margin-left: 10px;
+}
+
+.c2 p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(168, 184, 222);
+}
+
+.c2 .updbut2 {
+    margin-left: 250px;
+    margin-top: -15px;
+    background: orange;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.c3 {
+    width: 370px;
+    height: 170px;
+    margin-left: 12px;
+    margin-right: 10px;
+    background: white;
+    border-radius: 20px;
+}
+
+.c3 h2 {
+    margin-left: 15px;
+    margin-top: 10px;
+    font-weight: 200;
+    font-size: 14px;
+    font-weight: 600;
+    color: #11047A;
+}
+
+.c3 p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(168, 184, 222);
+}
+
+.c3 .updbut3 {
+    margin-left: 250px;
+    margin-top: -15px;
+    background: red;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.trtiltle2 {
+    width: 400px;
+    height: 790px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: #F7FAFC;
+}
+
+.trtiltle2 .addbut {
+   margin-left: 200px;
+    background: #EDF2F7;
+    color: blue;
+    border: none;
+    width: 50px;
+}
+
+.trtiltle2 .c1 .updbut2 {
+    margin-left: 250px;
+    margin-top: -12px;
+    background: orange;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.trtiltle3 .c3 .writebut {
+    margin-left: 25px;
+    margin-top: 10px;
+    background: white;
+    border: none;
+      color: rgb(192, 186, 186);
+}
+.trtiltle3 .c1 .writebut {
+    margin-left: 65px;
+    margin-top: 10px;
+    background: white;
+    border: none;
+      color: rgb(192, 186, 186);
+}
+
+.trtiltle2 .c3 .updbut {
+    margin-left: 250px;
+    margin-top: -20px;
+    background: rgb(70, 70, 232);
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.trtiltle2 .c2 .updbut3 {
+    margin-left: 250px;
+    margin-top: -22px;
+    background: red;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+.trtiltle3 {
+    width: 400px;
+    height: 640px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: #F7FAFC;
+}
+
+.trtiltle3 .addbut {
+    margin-left: 250px;
+    background: #EDF2F7;
+    color: blue;
+    border: none;
+    width: 50px;
+}
+
+.trtiltle3 .updbut4 {
+    margin-left: 250px;
+    margin-top: -22px;
+    background: green;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 7px;
+}
+
+@media only screen and (max-width: 950px) {
+    .mytitle {
+        min-width: 150px;
+
+    }
+
+    .trcont {
+        min-width: 600px;
+        width: 1170px;
+        height: 920px;
+        display: flex;
+    }
+
+}

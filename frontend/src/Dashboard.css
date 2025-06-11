@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.mytitle {
+    justify-content: left;
+    margin-left: 130px;
+    width: 83%;
+    margin-top: 10px; 
+} 
+
+.dcont {
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.title {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+
+.title2 {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+.title3 {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+
+.title4 {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+
+.title5 {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+
+.title6 {
+    width: 195px;
+    height: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: white;
+}
+.dcont2 {
+    display: flex;
+    margin-top: -30px;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+.dcont2 .title7 {
+    width: 600px;
+    height: 260px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont2 .title8 {
+    width: 600px;
+    height: 260px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+
+.dcont3 {
+    display: flex;
+    margin-top: -30px;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+.dcont3 .title9{
+    width: 580px;
+    height: 260px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont3 .title10{
+    width: 285px;
+    height: 260px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont3 .title11{
+    width: 285px;
+    height: 260px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont4 {
+    display: flex;
+    margin-top: -30px;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+.dcont4 .title12{
+    width: 600px;
+    height: 280px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont4 .title13{
+    width: 295px;
+    height: 280px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont4 .title14{
+    width: 295px;
+    height: 280px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dotbut {
+    border: none;
+    background: #EDF2F7;
+    width: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: blue;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.dcont5 {
+    display: flex;
+    margin-top: -30px;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+.dcont5 .title15{
+    width: 295px;
+    height: 270px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont5 .title16{
+    width: 295px;
+    height: 270px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont5 .title17{
+    width: 295px;
+    height: 270px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont5 .title18{
+    width: 295px;
+    height: 270px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+.dcont5 .title18 img{
+ width: 260px;
+    border-radius: 17px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 10px;}
+
+ .dcont5 .icon{
+  position: absolute;
+  margin-left: -40px;
+  margin-top: 20px;
+  width: 30px;
+  height: 30px;
+  color:white;
+  background:transparent;
+  padding: 4px;
+  border-radius: 50%;
+}
+@media only screen and (max-width: 950px) {
+    .mytitle {
+        min-width: 150px;
+
+    }
+
+    .mydcont {
+        min-width: 650px;
+    display: inline;   
+    }
+
+}

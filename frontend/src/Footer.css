@@ -1,0 +1,26 @@
+.footer-part {
+    display: flex;
+    bottom: 0;
+}
+.footer-part li{
+    list-style: none;
+    gap: 15px;
+    color: white;
+}
+
+.footer-part a {
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: lato;
+    text-decoration: none;
+    margin-left: 15px;
+}
+.footer-title{
+    font-size: 17px;
+    font-weight: 700;
+    justify-content: left;
+    bottom: 0;
+    font-family: lato;
+}
+

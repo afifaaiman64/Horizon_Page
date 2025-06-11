@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.mytitle {
+    justify-content: left;
+    margin-left: 130px;
+    width: 83%;
+    margin-top: 10px;
+}
+
+.prcont {
+    background-color: #EDF2F7;
+    margin-top: -35px;
+    margin-left: -15px;
+
+}
+
+.custom .MuiSwitch-switchBase.Mui-checked {
+    color: whitesmoke !important;
+}
+
+.custom .MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track {
+    background-color: rgb(1, 1, 249) !important;
+}
+
+.custom .MuiSwitch-thumb {
+    width: 14px !important;
+    height: 14px !important;
+}
+
+.custom .MuiSwitch-track {
+    height: 12px !important;
+    border-radius: 5px;
+    background-color: rgb(188, 188, 190);
+}
+
+.custom {
+    margin-left: 20px;
+}
+
+.trcont {
+    display: flex;
+    flex-direction: row;
+    width: 1214px;
+    margin-left: 270px;
+    margin-bottom: 35px;
+    margin-right: 10px;
+}
+
+.trcont2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 270px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.trcont .title {
+    width: 385px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+
+.title img {
+    border-radius: 30px;
+}
+
+.trcont .title2 {
+    font-family: lato;
+    width: 345px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+
+.title2 .dotbut {
+    border: none;
+    background: #EDF2F7;
+    width: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: blue;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+.title6 .butdot {
+    border: none;
+    background: #EDF2F7;
+    width: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: blue;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.title2 h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 120px;
+}
+
+.title2 p {
+    font-size: 14px;
+    color: rgb(168, 184, 222);
+    margin-left: 90px;
+    margin-top: -10px;
+}
+
+.trcont .title3 {
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: white;
+}
+
+.trcont2 .title4 {
+    width: 365px;
+    height: 320px;
+    border-radius: 15px;
+    margin-top: 110px;
+    background: white;
+}
+
+.trcont2 .title5 {
+    width: 465px;
+    height: 320px;
+    border-radius: 15px;
+    margin-top: 110px;
+    background: white;
+}
+
+.trcont2 .title6 {
+    width: 335px;
+    height: 320px;
+    border: 1px solid rgba(239, 229, 229, 0.441);
+    border-radius: 15px;
+    margin-top: 110px;
+    background: white;
+}
+
+@media only screen and (max-width: 950px) {
+    .mytitle {
+        min-width: 150px;
+
+    }
+
+    .trcont {
+        min-width: 600px;
+        width: 1170px;
+        height: 920px;
+        display: flex;
+    }
+
+    .trcont2 {
+        min-width: 600px;
+        width: 1170px;
+        height: 920px;
+        display: flex;
+    }
+
+}

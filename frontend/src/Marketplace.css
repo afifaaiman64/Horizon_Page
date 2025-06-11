@@ -1,0 +1,15 @@
+.mytitle{
+    justify-content: left;
+    margin-left: 130px;
+   
+    width: 83%;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 550px){
+    
+    .mytitle{
+        min-width: 150px;
+
+    }
+}
