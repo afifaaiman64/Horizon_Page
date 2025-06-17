@@ -1,4 +1,4 @@
 # Horizon Free 
-This is a React.js based website.
+Here you can find the backend database.
 <br>
-The React UI components are used for designing purpose.
+The server.js file contains the required API's in it.
